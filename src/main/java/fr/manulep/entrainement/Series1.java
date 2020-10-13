@@ -12,7 +12,6 @@ public class Series1 {
 		 throw new IllegalStateException("Test class");
 	}
 
-
 	public static String helloWorld(String name) {
 		//1
 		String message = "";
@@ -46,10 +45,11 @@ public class Series1 {
 		int[] array2 = new int[len+1];
 		array2[0] = element;
 
-		for(int i = 0; i < len;i++){
+		for(int i = 0; i < len; i++){
 			array2[i+1] = array[i];
 		}
-			return array2;
+
+		return array2;
 	}
 	
 	public static int[] allElementsExceptFirstThree(int[] array) {

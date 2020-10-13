@@ -2,4 +2,6 @@
 
 Projet d'entrainement au code Java
 
-![Coding](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
+#Validation des tests
+
+![Test](https://i.ibb.co/3Tvhqcb/Capture-d-e-cran-2020-10-13-a-10-05-17.png)
